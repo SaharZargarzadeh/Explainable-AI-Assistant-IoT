@@ -1,0 +1,1001 @@
+timestamp,power,task,notes
+0.0,0.3,blink,Normal behavior
+0.01,0.3031,blink,Normal behavior
+0.02,0.3063,blink,Normal behavior
+0.03,0.3094,blink,Normal behavior
+0.04,0.3124,blink,Normal behavior
+0.05,0.3155,blink,Normal behavior
+0.06,0.3184,blink,Normal behavior
+0.07,0.3213,blink,Normal behavior
+0.08,0.3241,blink,Normal behavior
+0.09,0.3268,blink,Normal behavior
+0.1,0.3294,blink,Normal behavior
+0.11,0.3319,blink,Normal behavior
+0.12,0.3342,blink,Normal behavior
+0.13,0.3364,blink,Normal behavior
+0.14,0.3385,blink,Normal behavior
+0.15,0.3405,blink,Normal behavior
+0.16,0.3422,blink,Normal behavior
+0.17,0.3438,blink,Normal behavior
+0.18,0.3452,blink,Normal behavior
+0.19,0.3465,blink,Normal behavior
+0.2,0.3476,blink,Normal behavior
+0.21,0.3484,blink,Normal behavior
+0.22,0.3491,blink,Normal behavior
+0.23,0.3496,blink,Normal behavior
+0.24,0.3499,blink,Normal behavior
+0.25,0.35,blink,Normal behavior
+0.26,0.3499,blink,Normal behavior
+0.27,0.3496,blink,Normal behavior
+0.28,0.3491,blink,Normal behavior
+0.29,0.3484,blink,Normal behavior
+0.3,0.3476,blink,Normal behavior
+0.31,0.3465,blink,Normal behavior
+0.32,0.3452,blink,Normal behavior
+0.33,0.3438,blink,Normal behavior
+0.34,0.3422,blink,Normal behavior
+0.35000000000000003,0.3405,blink,Normal behavior
+0.36,0.3385,blink,Normal behavior
+0.37,0.3364,blink,Normal behavior
+0.38,0.3342,blink,Normal behavior
+0.39,0.3319,blink,Normal behavior
+0.4,0.3294,blink,Normal behavior
+0.41000000000000003,0.3268,blink,Normal behavior
+0.42,0.3241,blink,Normal behavior
+0.43,0.3213,blink,Normal behavior
+0.44,0.3184,blink,Normal behavior
+0.45,0.3155,blink,Normal behavior
+0.46,0.3124,blink,Normal behavior
+0.47000000000000003,0.3094,blink,Normal behavior
+0.48,0.3063,blink,Normal behavior
+0.49,0.3031,blink,Normal behavior
+0.5,0.3,blink,Normal behavior
+0.51,0.2969,blink,Normal behavior
+0.52,0.2937,blink,Normal behavior
+0.53,0.2906,blink,Normal behavior
+0.54,0.2876,blink,Normal behavior
+0.55,0.2845,blink,Normal behavior
+0.56,0.2816,blink,Normal behavior
+0.5700000000000001,0.2787,blink,Normal behavior
+0.58,0.2759,blink,Normal behavior
+0.59,0.2732,blink,Normal behavior
+0.6,0.2706,blink,Normal behavior
+0.61,0.2681,blink,Normal behavior
+0.62,0.2658,blink,Normal behavior
+0.63,0.2636,blink,Normal behavior
+0.64,0.2615,blink,Normal behavior
+0.65,0.2595,blink,Normal behavior
+0.66,0.2578,blink,Normal behavior
+0.67,0.2562,blink,Normal behavior
+0.68,0.2548,blink,Normal behavior
+0.6900000000000001,0.2535,blink,Normal behavior
+0.7000000000000001,0.2524,blink,Normal behavior
+0.71,0.2516,blink,Normal behavior
+0.72,0.2509,blink,Normal behavior
+0.73,0.2504,blink,Normal behavior
+0.74,0.2501,blink,Normal behavior
+0.75,0.25,blink,Normal behavior
+0.76,0.2501,blink,Normal behavior
+0.77,0.2504,blink,Normal behavior
+0.78,0.2509,blink,Normal behavior
+0.79,0.2516,blink,Normal behavior
+0.8,0.2524,blink,Normal behavior
+0.81,0.2535,blink,Normal behavior
+0.8200000000000001,0.2548,blink,Normal behavior
+0.8300000000000001,0.2562,blink,Normal behavior
+0.84,0.2578,blink,Normal behavior
+0.85,0.2595,blink,Normal behavior
+0.86,0.2615,blink,Normal behavior
+0.87,0.2636,blink,Normal behavior
+0.88,0.2658,blink,Normal behavior
+0.89,0.2681,blink,Normal behavior
+0.9,0.2706,blink,Normal behavior
+0.91,0.2732,blink,Normal behavior
+0.92,0.2759,blink,Normal behavior
+0.93,0.2787,blink,Normal behavior
+0.9400000000000001,0.2816,blink,Normal behavior
+0.9500000000000001,0.2845,blink,Normal behavior
+0.96,0.2876,blink,Normal behavior
+0.97,0.2906,blink,Normal behavior
+0.98,0.2937,blink,Normal behavior
+0.99,0.2969,blink,Normal behavior
+1.0,0.3,blink,Normal behavior
+1.01,0.3031,blink,Normal behavior
+1.02,0.3063,blink,Normal behavior
+1.03,0.3094,blink,Normal behavior
+1.04,0.3124,blink,Normal behavior
+1.05,0.3155,blink,Normal behavior
+1.06,0.3184,blink,Normal behavior
+1.07,0.3213,blink,Normal behavior
+1.08,0.3241,blink,Normal behavior
+1.09,0.3268,blink,Normal behavior
+1.1,0.3294,blink,Normal behavior
+1.11,0.3319,blink,Normal behavior
+1.12,0.3342,blink,Normal behavior
+1.1300000000000001,0.3364,blink,Normal behavior
+1.1400000000000001,0.3385,blink,Normal behavior
+1.1500000000000001,0.3405,blink,Normal behavior
+1.16,0.3422,blink,Normal behavior
+1.17,0.3438,blink,Normal behavior
+1.18,0.3452,blink,Normal behavior
+1.19,0.3465,blink,Normal behavior
+1.2,0.3476,blink,Normal behavior
+1.21,0.3484,blink,Normal behavior
+1.22,0.3491,blink,Normal behavior
+1.23,0.3496,blink,Normal behavior
+1.24,0.3499,blink,Normal behavior
+1.25,0.35,blink,Normal behavior
+1.26,0.3499,blink,Normal behavior
+1.27,0.3496,blink,Normal behavior
+1.28,0.3491,blink,Normal behavior
+1.29,0.3484,blink,Normal behavior
+1.3,0.3476,blink,Normal behavior
+1.31,0.3465,blink,Normal behavior
+1.32,0.3452,blink,Normal behavior
+1.33,0.3438,blink,Normal behavior
+1.34,0.3422,blink,Normal behavior
+1.35,0.3405,blink,Normal behavior
+1.36,0.3385,blink,Normal behavior
+1.37,0.3364,blink,Normal behavior
+1.3800000000000001,0.3342,blink,Normal behavior
+1.3900000000000001,0.3319,blink,Normal behavior
+1.4000000000000001,0.3294,blink,Normal behavior
+1.41,0.3268,blink,Normal behavior
+1.42,0.3241,blink,Normal behavior
+1.43,0.3213,blink,Normal behavior
+1.44,0.3184,blink,Normal behavior
+1.45,0.3155,blink,Normal behavior
+1.46,0.3124,blink,Normal behavior
+1.47,0.3094,blink,Normal behavior
+1.48,0.3063,blink,Normal behavior
+1.49,0.3031,blink,Normal behavior
+1.5,0.3,blink,Normal behavior
+1.51,0.2969,blink,Normal behavior
+1.52,0.2937,blink,Normal behavior
+1.53,0.2906,blink,Normal behavior
+1.54,0.2876,blink,Normal behavior
+1.55,0.2845,blink,Normal behavior
+1.56,0.2816,blink,Normal behavior
+1.57,0.2787,blink,Normal behavior
+1.58,0.2759,blink,Normal behavior
+1.59,0.2732,blink,Normal behavior
+1.6,0.2706,blink,Normal behavior
+1.61,0.2681,blink,Normal behavior
+1.62,0.2658,blink,Normal behavior
+1.6300000000000001,0.2636,blink,Normal behavior
+1.6400000000000001,0.2615,blink,Normal behavior
+1.6500000000000001,0.2595,blink,Normal behavior
+1.6600000000000001,0.2578,blink,Normal behavior
+1.67,0.2562,blink,Normal behavior
+1.68,0.2548,blink,Normal behavior
+1.69,0.2535,blink,Normal behavior
+1.7,0.2524,blink,Normal behavior
+1.71,0.2516,blink,Normal behavior
+1.72,0.2509,blink,Normal behavior
+1.73,0.2504,blink,Normal behavior
+1.74,0.2501,blink,Normal behavior
+1.75,0.25,blink,Normal behavior
+1.76,0.2501,blink,Normal behavior
+1.77,0.2504,blink,Normal behavior
+1.78,0.2509,blink,Normal behavior
+1.79,0.2516,blink,Normal behavior
+1.8,0.2524,blink,Normal behavior
+1.81,0.2535,blink,Normal behavior
+1.82,0.2548,blink,Normal behavior
+1.83,0.2562,blink,Normal behavior
+1.84,0.2578,blink,Normal behavior
+1.85,0.2595,blink,Normal behavior
+1.86,0.2615,blink,Normal behavior
+1.87,0.2636,blink,Normal behavior
+1.8800000000000001,0.2658,blink,Normal behavior
+1.8900000000000001,0.2681,blink,Normal behavior
+1.9000000000000001,0.2706,blink,Normal behavior
+1.9100000000000001,0.2732,blink,Normal behavior
+1.92,0.2759,blink,Normal behavior
+1.93,0.2787,blink,Normal behavior
+1.94,0.2816,blink,Normal behavior
+1.95,0.2845,blink,Normal behavior
+1.96,0.2876,blink,Normal behavior
+1.97,0.2906,blink,Normal behavior
+1.98,0.2937,blink,Normal behavior
+1.99,0.2969,blink,Normal behavior
+2.0,0.8124,dosTask,Spike - possible DoS
+2.0100000000000002,0.9884,dosTask,Spike - possible DoS
+2.02,0.9259,dosTask,Spike - possible DoS
+2.0300000000000002,0.889,dosTask,Spike - possible DoS
+2.04,0.7592,dosTask,Spike - possible DoS
+2.05,0.7622,dosTask,Spike - possible DoS
+2.06,0.7358,dosTask,Spike - possible DoS
+2.07,0.9811,dosTask,Spike - possible DoS
+2.08,0.9044,dosTask,Spike - possible DoS
+2.09,0.9392,dosTask,Spike - possible DoS
+2.1,0.7356,dosTask,Spike - possible DoS
+2.11,1.0228,dosTask,Spike - possible DoS
+2.12,0.984,dosTask,Spike - possible DoS
+2.13,0.8002,dosTask,Spike - possible DoS
+2.14,0.7931,dosTask,Spike - possible DoS
+2.15,0.7955,dosTask,Spike - possible DoS
+2.16,0.8335,dosTask,Spike - possible DoS
+2.17,0.9012,dosTask,Spike - possible DoS
+2.18,0.8748,dosTask,Spike - possible DoS
+2.19,0.8339,dosTask,Spike - possible DoS
+2.2,0.9311,dosTask,Spike - possible DoS
+2.21,0.7903,dosTask,Spike - possible DoS
+2.22,0.8368,dosTask,Spike - possible DoS
+2.23,0.8595,dosTask,Spike - possible DoS
+2.24,0.8867,dosTask,Spike - possible DoS
+2.25,0.9856,dosTask,Spike - possible DoS
+2.2600000000000002,0.8098,dosTask,Spike - possible DoS
+2.27,0.9039,dosTask,Spike - possible DoS
+2.2800000000000002,0.9268,dosTask,Spike - possible DoS
+2.29,0.7624,dosTask,Spike - possible DoS
+2.3000000000000003,0.9298,dosTask,Spike - possible DoS
+2.31,0.7976,dosTask,Spike - possible DoS
+2.32,0.7648,dosTask,Spike - possible DoS
+2.33,1.0285,dosTask,Spike - possible DoS
+2.34,1.0319,dosTask,Spike - possible DoS
+2.35,0.983,dosTask,Spike - possible DoS
+2.36,0.8299,dosTask,Spike - possible DoS
+2.37,0.7658,dosTask,Spike - possible DoS
+2.38,0.9395,dosTask,Spike - possible DoS
+2.39,0.8639,dosTask,Spike - possible DoS
+2.4,0.766,dosTask,Spike - possible DoS
+2.41,0.8753,dosTask,Spike - possible DoS
+2.42,0.7344,dosTask,Spike - possible DoS
+2.43,0.9941,dosTask,Spike - possible DoS
+2.44,0.796,dosTask,Spike - possible DoS
+2.45,0.9142,dosTask,Spike - possible DoS
+2.46,0.8059,dosTask,Spike - possible DoS
+2.47,0.8654,dosTask,Spike - possible DoS
+2.48,0.8703,dosTask,Spike - possible DoS
+2.49,0.7586,dosTask,Spike - possible DoS
+2.5,0.9909,dosTask,Spike - possible DoS
+2.5100000000000002,0.9294,dosTask,Spike - possible DoS
+2.52,0.9756,dosTask,Spike - possible DoS
+2.5300000000000002,0.9591,dosTask,Spike - possible DoS
+2.54,0.8669,dosTask,Spike - possible DoS
+2.5500000000000003,0.9611,dosTask,Spike - possible DoS
+2.56,0.7081,dosTask,Spike - possible DoS
+2.57,0.7375,dosTask,Spike - possible DoS
+2.58,0.6895,dosTask,Spike - possible DoS
+2.59,0.7708,dosTask,Spike - possible DoS
+2.6,0.7872,dosTask,Spike - possible DoS
+2.61,0.7495,dosTask,Spike - possible DoS
+2.62,0.9144,dosTask,Spike - possible DoS
+2.63,0.7706,dosTask,Spike - possible DoS
+2.64,0.7458,dosTask,Spike - possible DoS
+2.65,0.8224,dosTask,Spike - possible DoS
+2.66,0.7001,dosTask,Spike - possible DoS
+2.67,0.8968,dosTask,Spike - possible DoS
+2.68,0.6771,dosTask,Spike - possible DoS
+2.69,0.9496,dosTask,Spike - possible DoS
+2.7,0.8841,dosTask,Spike - possible DoS
+2.71,0.7112,dosTask,Spike - possible DoS
+2.72,0.6525,dosTask,Spike - possible DoS
+2.73,0.895,dosTask,Spike - possible DoS
+2.74,0.8622,dosTask,Spike - possible DoS
+2.75,0.8687,dosTask,Spike - possible DoS
+2.7600000000000002,0.8815,dosTask,Spike - possible DoS
+2.77,0.6726,dosTask,Spike - possible DoS
+2.7800000000000002,0.7584,dosTask,Spike - possible DoS
+2.79,0.6863,dosTask,Spike - possible DoS
+2.8000000000000003,0.9114,dosTask,Spike - possible DoS
+2.81,0.8405,dosTask,Spike - possible DoS
+2.82,0.754,dosTask,Spike - possible DoS
+2.83,0.6753,dosTask,Spike - possible DoS
+2.84,0.7511,dosTask,Spike - possible DoS
+2.85,0.7571,dosTask,Spike - possible DoS
+2.86,0.8804,dosTask,Spike - possible DoS
+2.87,0.8548,dosTask,Spike - possible DoS
+2.88,0.9319,dosTask,Spike - possible DoS
+2.89,0.8098,dosTask,Spike - possible DoS
+2.9,0.7065,dosTask,Spike - possible DoS
+2.91,0.8872,dosTask,Spike - possible DoS
+2.92,0.9041,dosTask,Spike - possible DoS
+2.93,0.8471,dosTask,Spike - possible DoS
+2.94,0.9129,dosTask,Spike - possible DoS
+2.95,0.8327,dosTask,Spike - possible DoS
+2.96,0.8444,dosTask,Spike - possible DoS
+2.97,0.8189,dosTask,Spike - possible DoS
+2.98,0.7014,dosTask,Spike - possible DoS
+2.99,0.7292,dosTask,Spike - possible DoS
+3.0,0.3,blink,Normal behavior
+3.0100000000000002,0.3031,blink,Normal behavior
+3.02,0.3063,blink,Normal behavior
+3.0300000000000002,0.3094,blink,Normal behavior
+3.04,0.3124,blink,Normal behavior
+3.0500000000000003,0.3155,blink,Normal behavior
+3.06,0.3184,blink,Normal behavior
+3.0700000000000003,0.3213,blink,Normal behavior
+3.08,0.3241,blink,Normal behavior
+3.09,0.3268,blink,Normal behavior
+3.1,0.3294,blink,Normal behavior
+3.11,0.3319,blink,Normal behavior
+3.12,0.3342,blink,Normal behavior
+3.13,0.3364,blink,Normal behavior
+3.14,0.3385,blink,Normal behavior
+3.15,0.3405,blink,Normal behavior
+3.16,0.3422,blink,Normal behavior
+3.17,0.3438,blink,Normal behavior
+3.18,0.3452,blink,Normal behavior
+3.19,0.3465,blink,Normal behavior
+3.2,0.3476,blink,Normal behavior
+3.21,0.3484,blink,Normal behavior
+3.22,0.3491,blink,Normal behavior
+3.23,0.3496,blink,Normal behavior
+3.24,0.3499,blink,Normal behavior
+3.25,0.35,blink,Normal behavior
+3.2600000000000002,0.3499,blink,Normal behavior
+3.27,0.3496,blink,Normal behavior
+3.2800000000000002,0.3491,blink,Normal behavior
+3.29,0.3484,blink,Normal behavior
+3.3000000000000003,0.3476,blink,Normal behavior
+3.31,0.3465,blink,Normal behavior
+3.3200000000000003,0.3452,blink,Normal behavior
+3.33,0.3438,blink,Normal behavior
+3.34,0.3422,blink,Normal behavior
+3.35,0.3405,blink,Normal behavior
+3.36,0.3385,blink,Normal behavior
+3.37,0.3364,blink,Normal behavior
+3.38,0.3342,blink,Normal behavior
+3.39,0.3319,blink,Normal behavior
+3.4,0.3294,blink,Normal behavior
+3.41,0.3268,blink,Normal behavior
+3.42,0.3241,blink,Normal behavior
+3.43,0.3213,blink,Normal behavior
+3.44,0.3184,blink,Normal behavior
+3.45,0.3155,blink,Normal behavior
+3.46,0.3124,blink,Normal behavior
+3.47,0.3094,blink,Normal behavior
+3.48,0.3063,blink,Normal behavior
+3.49,0.3031,blink,Normal behavior
+3.5,0.3,blink,Normal behavior
+3.5100000000000002,0.2969,blink,Normal behavior
+3.52,0.2937,blink,Normal behavior
+3.5300000000000002,0.2906,blink,Normal behavior
+3.54,0.2876,blink,Normal behavior
+3.5500000000000003,0.2845,blink,Normal behavior
+3.56,0.2816,blink,Normal behavior
+3.5700000000000003,0.2787,blink,Normal behavior
+3.58,0.2759,blink,Normal behavior
+3.59,0.2732,blink,Normal behavior
+3.6,0.2706,blink,Normal behavior
+3.61,0.2681,blink,Normal behavior
+3.62,0.2658,blink,Normal behavior
+3.63,0.2636,blink,Normal behavior
+3.64,0.2615,blink,Normal behavior
+3.65,0.2595,blink,Normal behavior
+3.66,0.2578,blink,Normal behavior
+3.67,0.2562,blink,Normal behavior
+3.68,0.2548,blink,Normal behavior
+3.69,0.2535,blink,Normal behavior
+3.7,0.2524,blink,Normal behavior
+3.71,0.2516,blink,Normal behavior
+3.72,0.2509,blink,Normal behavior
+3.73,0.2504,blink,Normal behavior
+3.74,0.2501,blink,Normal behavior
+3.75,0.25,blink,Normal behavior
+3.7600000000000002,0.2501,blink,Normal behavior
+3.77,0.2504,blink,Normal behavior
+3.7800000000000002,0.2509,blink,Normal behavior
+3.79,0.2516,blink,Normal behavior
+3.8000000000000003,0.2524,blink,Normal behavior
+3.81,0.2535,blink,Normal behavior
+3.8200000000000003,0.2548,blink,Normal behavior
+3.83,0.2562,blink,Normal behavior
+3.84,0.2578,blink,Normal behavior
+3.85,0.2595,blink,Normal behavior
+3.86,0.2615,blink,Normal behavior
+3.87,0.2636,blink,Normal behavior
+3.88,0.2658,blink,Normal behavior
+3.89,0.2681,blink,Normal behavior
+3.9,0.2706,blink,Normal behavior
+3.91,0.2732,blink,Normal behavior
+3.92,0.2759,blink,Normal behavior
+3.93,0.2787,blink,Normal behavior
+3.94,0.2816,blink,Normal behavior
+3.95,0.2845,blink,Normal behavior
+3.96,0.2876,blink,Normal behavior
+3.97,0.2906,blink,Normal behavior
+3.98,0.2937,blink,Normal behavior
+3.99,0.2969,blink,Normal behavior
+4.0,0.3,blink,Normal behavior
+4.01,0.3031,blink,Normal behavior
+4.0200000000000005,0.3063,blink,Normal behavior
+4.03,0.3094,blink,Normal behavior
+4.04,0.3124,blink,Normal behavior
+4.05,0.3155,blink,Normal behavior
+4.0600000000000005,0.3184,blink,Normal behavior
+4.07,0.3213,blink,Normal behavior
+4.08,0.3241,blink,Normal behavior
+4.09,0.3268,blink,Normal behavior
+4.1,0.3294,blink,Normal behavior
+4.11,0.3319,blink,Normal behavior
+4.12,0.3342,blink,Normal behavior
+4.13,0.3364,blink,Normal behavior
+4.14,0.3385,blink,Normal behavior
+4.15,0.3405,blink,Normal behavior
+4.16,0.3422,blink,Normal behavior
+4.17,0.3438,blink,Normal behavior
+4.18,0.3452,blink,Normal behavior
+4.19,0.3465,blink,Normal behavior
+4.2,0.3476,blink,Normal behavior
+4.21,0.3484,blink,Normal behavior
+4.22,0.3491,blink,Normal behavior
+4.23,0.3496,blink,Normal behavior
+4.24,0.3499,blink,Normal behavior
+4.25,0.35,blink,Normal behavior
+4.26,0.3499,blink,Normal behavior
+4.2700000000000005,0.3496,blink,Normal behavior
+4.28,0.3491,blink,Normal behavior
+4.29,0.3484,blink,Normal behavior
+4.3,0.3476,blink,Normal behavior
+4.3100000000000005,0.3465,blink,Normal behavior
+4.32,0.3452,blink,Normal behavior
+4.33,0.3438,blink,Normal behavior
+4.34,0.3422,blink,Normal behavior
+4.3500000000000005,0.3405,blink,Normal behavior
+4.36,0.3385,blink,Normal behavior
+4.37,0.3364,blink,Normal behavior
+4.38,0.3342,blink,Normal behavior
+4.39,0.3319,blink,Normal behavior
+4.4,0.3294,blink,Normal behavior
+4.41,0.3268,blink,Normal behavior
+4.42,0.3241,blink,Normal behavior
+4.43,0.3213,blink,Normal behavior
+4.44,0.3184,blink,Normal behavior
+4.45,0.3155,blink,Normal behavior
+4.46,0.3124,blink,Normal behavior
+4.47,0.3094,blink,Normal behavior
+4.48,0.3063,blink,Normal behavior
+4.49,0.3031,blink,Normal behavior
+4.5,0.3,blink,Normal behavior
+4.51,0.2969,blink,Normal behavior
+4.5200000000000005,0.2937,blink,Normal behavior
+4.53,0.2906,blink,Normal behavior
+4.54,0.2876,blink,Normal behavior
+4.55,0.2845,blink,Normal behavior
+4.5600000000000005,0.2816,blink,Normal behavior
+4.57,0.2787,blink,Normal behavior
+4.58,0.2759,blink,Normal behavior
+4.59,0.2732,blink,Normal behavior
+4.6000000000000005,0.2706,blink,Normal behavior
+4.61,0.2681,blink,Normal behavior
+4.62,0.2658,blink,Normal behavior
+4.63,0.2636,blink,Normal behavior
+4.64,0.2615,blink,Normal behavior
+4.65,0.2595,blink,Normal behavior
+4.66,0.2578,blink,Normal behavior
+4.67,0.2562,blink,Normal behavior
+4.68,0.2548,blink,Normal behavior
+4.69,0.2535,blink,Normal behavior
+4.7,0.2524,blink,Normal behavior
+4.71,0.2516,blink,Normal behavior
+4.72,0.2509,blink,Normal behavior
+4.73,0.2504,blink,Normal behavior
+4.74,0.2501,blink,Normal behavior
+4.75,0.25,blink,Normal behavior
+4.76,0.2501,blink,Normal behavior
+4.7700000000000005,0.2504,blink,Normal behavior
+4.78,0.2509,blink,Normal behavior
+4.79,0.2516,blink,Normal behavior
+4.8,0.2524,blink,Normal behavior
+4.8100000000000005,0.2535,blink,Normal behavior
+4.82,0.2548,blink,Normal behavior
+4.83,0.2562,blink,Normal behavior
+4.84,0.2578,blink,Normal behavior
+4.8500000000000005,0.2595,blink,Normal behavior
+4.86,0.2615,blink,Normal behavior
+4.87,0.2636,blink,Normal behavior
+4.88,0.2658,blink,Normal behavior
+4.89,0.2681,blink,Normal behavior
+4.9,0.2706,blink,Normal behavior
+4.91,0.2732,blink,Normal behavior
+4.92,0.2759,blink,Normal behavior
+4.93,0.2787,blink,Normal behavior
+4.94,0.2816,blink,Normal behavior
+4.95,0.2845,blink,Normal behavior
+4.96,0.2876,blink,Normal behavior
+4.97,0.2906,blink,Normal behavior
+4.98,0.2937,blink,Normal behavior
+4.99,0.2969,blink,Normal behavior
+5.0,0.3,blink,Normal behavior
+5.01,0.3031,blink,Normal behavior
+5.0200000000000005,0.3063,blink,Normal behavior
+5.03,0.3094,blink,Normal behavior
+5.04,0.3124,blink,Normal behavior
+5.05,0.3155,blink,Normal behavior
+5.0600000000000005,0.3184,blink,Normal behavior
+5.07,0.3213,blink,Normal behavior
+5.08,0.3241,blink,Normal behavior
+5.09,0.3268,blink,Normal behavior
+5.1000000000000005,0.3294,blink,Normal behavior
+5.11,0.3319,blink,Normal behavior
+5.12,0.3342,blink,Normal behavior
+5.13,0.3364,blink,Normal behavior
+5.14,0.3385,blink,Normal behavior
+5.15,0.3405,blink,Normal behavior
+5.16,0.3422,blink,Normal behavior
+5.17,0.3438,blink,Normal behavior
+5.18,0.3452,blink,Normal behavior
+5.19,0.3465,blink,Normal behavior
+5.2,0.3476,blink,Normal behavior
+5.21,0.3484,blink,Normal behavior
+5.22,0.3491,blink,Normal behavior
+5.23,0.3496,blink,Normal behavior
+5.24,0.3499,blink,Normal behavior
+5.25,0.35,blink,Normal behavior
+5.26,0.3499,blink,Normal behavior
+5.2700000000000005,0.3496,blink,Normal behavior
+5.28,0.3491,blink,Normal behavior
+5.29,0.3484,blink,Normal behavior
+5.3,0.3476,blink,Normal behavior
+5.3100000000000005,0.3465,blink,Normal behavior
+5.32,0.3452,blink,Normal behavior
+5.33,0.3438,blink,Normal behavior
+5.34,0.3422,blink,Normal behavior
+5.3500000000000005,0.3405,blink,Normal behavior
+5.36,0.3385,blink,Normal behavior
+5.37,0.3364,blink,Normal behavior
+5.38,0.3342,blink,Normal behavior
+5.39,0.3319,blink,Normal behavior
+5.4,0.3294,blink,Normal behavior
+5.41,0.3268,blink,Normal behavior
+5.42,0.3241,blink,Normal behavior
+5.43,0.3213,blink,Normal behavior
+5.44,0.3184,blink,Normal behavior
+5.45,0.3155,blink,Normal behavior
+5.46,0.3124,blink,Normal behavior
+5.47,0.3094,blink,Normal behavior
+5.48,0.3063,blink,Normal behavior
+5.49,0.3031,blink,Normal behavior
+5.5,0.3,blink,Normal behavior
+5.51,0.2969,blink,Normal behavior
+5.5200000000000005,0.2937,blink,Normal behavior
+5.53,0.2906,blink,Normal behavior
+5.54,0.2876,blink,Normal behavior
+5.55,0.2845,blink,Normal behavior
+5.5600000000000005,0.2816,blink,Normal behavior
+5.57,0.2787,blink,Normal behavior
+5.58,0.2759,blink,Normal behavior
+5.59,0.2732,blink,Normal behavior
+5.6000000000000005,0.2706,blink,Normal behavior
+5.61,0.2681,blink,Normal behavior
+5.62,0.2658,blink,Normal behavior
+5.63,0.2636,blink,Normal behavior
+5.64,0.2615,blink,Normal behavior
+5.65,0.2595,blink,Normal behavior
+5.66,0.2578,blink,Normal behavior
+5.67,0.2562,blink,Normal behavior
+5.68,0.2548,blink,Normal behavior
+5.69,0.2535,blink,Normal behavior
+5.7,0.2524,blink,Normal behavior
+5.71,0.2516,blink,Normal behavior
+5.72,0.2509,blink,Normal behavior
+5.73,0.2504,blink,Normal behavior
+5.74,0.2501,blink,Normal behavior
+5.75,0.25,blink,Normal behavior
+5.76,0.2501,blink,Normal behavior
+5.7700000000000005,0.2504,blink,Normal behavior
+5.78,0.2509,blink,Normal behavior
+5.79,0.2516,blink,Normal behavior
+5.8,0.2524,blink,Normal behavior
+5.8100000000000005,0.2535,blink,Normal behavior
+5.82,0.2548,blink,Normal behavior
+5.83,0.2562,blink,Normal behavior
+5.84,0.2578,blink,Normal behavior
+5.8500000000000005,0.2595,blink,Normal behavior
+5.86,0.2615,blink,Normal behavior
+5.87,0.2636,blink,Normal behavior
+5.88,0.2658,blink,Normal behavior
+5.89,0.2681,blink,Normal behavior
+5.9,0.2706,blink,Normal behavior
+5.91,0.2732,blink,Normal behavior
+5.92,0.2759,blink,Normal behavior
+5.93,0.2787,blink,Normal behavior
+5.94,0.2816,blink,Normal behavior
+5.95,0.2845,blink,Normal behavior
+5.96,0.2876,blink,Normal behavior
+5.97,0.2906,blink,Normal behavior
+5.98,0.2937,blink,Normal behavior
+5.99,0.2969,blink,Normal behavior
+6.0,0.8094,dosTask,Spike - probable DoS
+6.01,0.9941,dosTask,Spike - probable DoS
+6.0200000000000005,0.9006,dosTask,Spike - probable DoS
+6.03,0.9619,dosTask,Spike - probable DoS
+6.04,1.0847,dosTask,Spike - probable DoS
+6.05,0.8902,dosTask,Spike - probable DoS
+6.0600000000000005,0.9415,dosTask,Spike - probable DoS
+6.07,1.048,dosTask,Spike - probable DoS
+6.08,0.8927,dosTask,Spike - probable DoS
+6.09,0.8499,dosTask,Spike - probable DoS
+6.1000000000000005,0.9163,dosTask,Spike - probable DoS
+6.11,0.8802,dosTask,Spike - probable DoS
+6.12,1.1131,dosTask,Spike - probable DoS
+6.13,1.0789,dosTask,Spike - probable DoS
+6.140000000000001,1.0285,dosTask,Spike - probable DoS
+6.15,1.1019,dosTask,Spike - probable DoS
+6.16,1.0833,dosTask,Spike - probable DoS
+6.17,0.8998,dosTask,Spike - probable DoS
+6.18,1.113,dosTask,Spike - probable DoS
+6.19,1.0083,dosTask,Spike - probable DoS
+6.2,1.0898,dosTask,Spike - probable DoS
+6.21,1.1173,dosTask,Spike - probable DoS
+6.22,0.9445,dosTask,Spike - probable DoS
+6.23,0.8826,dosTask,Spike - probable DoS
+6.24,0.9183,dosTask,Spike - probable DoS
+6.25,0.9781,dosTask,Spike - probable DoS
+6.26,1.0953,dosTask,Spike - probable DoS
+6.2700000000000005,1.1078,dosTask,Spike - probable DoS
+6.28,0.8512,dosTask,Spike - probable DoS
+6.29,1.0017,dosTask,Spike - probable DoS
+6.3,0.9728,dosTask,Spike - probable DoS
+6.3100000000000005,0.9131,dosTask,Spike - probable DoS
+6.32,0.8812,dosTask,Spike - probable DoS
+6.33,0.9451,dosTask,Spike - probable DoS
+6.34,1.1251,dosTask,Spike - probable DoS
+6.3500000000000005,0.9374,dosTask,Spike - probable DoS
+6.36,0.9942,dosTask,Spike - probable DoS
+6.37,1.0474,dosTask,Spike - probable DoS
+6.38,0.9433,dosTask,Spike - probable DoS
+6.390000000000001,1.1234,dosTask,Spike - probable DoS
+6.4,1.1181,dosTask,Spike - probable DoS
+6.41,0.9023,dosTask,Spike - probable DoS
+6.42,0.9733,dosTask,Spike - probable DoS
+6.43,0.9116,dosTask,Spike - probable DoS
+6.44,0.9039,dosTask,Spike - probable DoS
+6.45,0.8265,dosTask,Spike - probable DoS
+6.46,0.9953,dosTask,Spike - probable DoS
+6.47,0.9602,dosTask,Spike - probable DoS
+6.48,0.8217,dosTask,Spike - probable DoS
+6.49,0.8867,dosTask,Spike - probable DoS
+6.5,1.0725,dosTask,Spike - probable DoS
+6.51,0.8687,dosTask,Spike - probable DoS
+6.5200000000000005,0.8372,dosTask,Spike - probable DoS
+6.53,0.9375,dosTask,Spike - probable DoS
+6.54,1.0833,dosTask,Spike - probable DoS
+6.55,0.8572,dosTask,Spike - probable DoS
+6.5600000000000005,0.9832,dosTask,Spike - probable DoS
+6.57,1.0072,dosTask,Spike - probable DoS
+6.58,0.8472,dosTask,Spike - probable DoS
+6.59,0.9917,dosTask,Spike - probable DoS
+6.6000000000000005,0.8809,dosTask,Spike - probable DoS
+6.61,0.9578,dosTask,Spike - probable DoS
+6.62,0.9558,dosTask,Spike - probable DoS
+6.63,0.9243,dosTask,Spike - probable DoS
+6.640000000000001,0.7886,dosTask,Spike - probable DoS
+6.65,1.0101,dosTask,Spike - probable DoS
+6.66,0.854,dosTask,Spike - probable DoS
+6.67,0.8121,dosTask,Spike - probable DoS
+6.68,0.767,dosTask,Spike - probable DoS
+6.69,0.9308,dosTask,Spike - probable DoS
+6.7,0.9557,dosTask,Spike - probable DoS
+6.71,0.7565,dosTask,Spike - probable DoS
+6.72,0.9045,dosTask,Spike - probable DoS
+6.73,0.8183,dosTask,Spike - probable DoS
+6.74,0.9437,dosTask,Spike - probable DoS
+6.75,0.8023,dosTask,Spike - probable DoS
+6.76,0.9574,dosTask,Spike - probable DoS
+6.7700000000000005,0.8664,dosTask,Spike - probable DoS
+6.78,1.0319,dosTask,Spike - probable DoS
+6.79,0.7928,dosTask,Spike - probable DoS
+6.8,0.8548,dosTask,Spike - probable DoS
+6.8100000000000005,0.7876,dosTask,Spike - probable DoS
+6.82,1.0322,dosTask,Spike - probable DoS
+6.83,1.0194,dosTask,Spike - probable DoS
+6.84,0.8352,dosTask,Spike - probable DoS
+6.8500000000000005,0.9575,dosTask,Spike - probable DoS
+6.86,1.0066,dosTask,Spike - probable DoS
+6.87,0.9301,dosTask,Spike - probable DoS
+6.88,0.9247,dosTask,Spike - probable DoS
+6.890000000000001,0.8407,dosTask,Spike - probable DoS
+6.9,0.7985,dosTask,Spike - probable DoS
+6.91,1.0424,dosTask,Spike - probable DoS
+6.92,1.046,dosTask,Spike - probable DoS
+6.93,0.9686,dosTask,Spike - probable DoS
+6.94,0.8833,dosTask,Spike - probable DoS
+6.95,0.8893,dosTask,Spike - probable DoS
+6.96,1.0054,dosTask,Spike - probable DoS
+6.97,1.0598,dosTask,Spike - probable DoS
+6.98,1.0599,dosTask,Spike - probable DoS
+6.99,1.0308,dosTask,Spike - probable DoS
+7.0,0.3,blink,Normal behavior
+7.01,0.3031,blink,Normal behavior
+7.0200000000000005,0.3063,blink,Normal behavior
+7.03,0.3094,blink,Normal behavior
+7.04,0.3124,blink,Normal behavior
+7.05,0.3155,blink,Normal behavior
+7.0600000000000005,0.3184,blink,Normal behavior
+7.07,0.3213,blink,Normal behavior
+7.08,0.3241,blink,Normal behavior
+7.09,0.3268,blink,Normal behavior
+7.1000000000000005,0.3294,blink,Normal behavior
+7.11,0.3319,blink,Normal behavior
+7.12,0.3342,blink,Normal behavior
+7.13,0.3364,blink,Normal behavior
+7.140000000000001,0.3385,blink,Normal behavior
+7.15,0.3405,blink,Normal behavior
+7.16,0.3422,blink,Normal behavior
+7.17,0.3438,blink,Normal behavior
+7.18,0.3452,blink,Normal behavior
+7.19,0.3465,blink,Normal behavior
+7.2,0.3476,blink,Normal behavior
+7.21,0.3484,blink,Normal behavior
+7.22,0.3491,blink,Normal behavior
+7.23,0.3496,blink,Normal behavior
+7.24,0.3499,blink,Normal behavior
+7.25,0.35,blink,Normal behavior
+7.26,0.3499,blink,Normal behavior
+7.2700000000000005,0.3496,blink,Normal behavior
+7.28,0.3491,blink,Normal behavior
+7.29,0.3484,blink,Normal behavior
+7.3,0.3476,blink,Normal behavior
+7.3100000000000005,0.3465,blink,Normal behavior
+7.32,0.3452,blink,Normal behavior
+7.33,0.3438,blink,Normal behavior
+7.34,0.3422,blink,Normal behavior
+7.3500000000000005,0.3405,blink,Normal behavior
+7.36,0.3385,blink,Normal behavior
+7.37,0.3364,blink,Normal behavior
+7.38,0.3342,blink,Normal behavior
+7.390000000000001,0.3319,blink,Normal behavior
+7.4,0.3294,blink,Normal behavior
+7.41,0.3268,blink,Normal behavior
+7.42,0.3241,blink,Normal behavior
+7.43,0.3213,blink,Normal behavior
+7.44,0.3184,blink,Normal behavior
+7.45,0.3155,blink,Normal behavior
+7.46,0.3124,blink,Normal behavior
+7.47,0.3094,blink,Normal behavior
+7.48,0.3063,blink,Normal behavior
+7.49,0.3031,blink,Normal behavior
+7.5,0.3,blink,Normal behavior
+7.51,0.2969,blink,Normal behavior
+7.5200000000000005,0.2937,blink,Normal behavior
+7.53,0.2906,blink,Normal behavior
+7.54,0.2876,blink,Normal behavior
+7.55,0.2845,blink,Normal behavior
+7.5600000000000005,0.2816,blink,Normal behavior
+7.57,0.2787,blink,Normal behavior
+7.58,0.2759,blink,Normal behavior
+7.59,0.2732,blink,Normal behavior
+7.6000000000000005,0.2706,blink,Normal behavior
+7.61,0.2681,blink,Normal behavior
+7.62,0.2658,blink,Normal behavior
+7.63,0.2636,blink,Normal behavior
+7.640000000000001,0.2615,blink,Normal behavior
+7.65,0.2595,blink,Normal behavior
+7.66,0.2578,blink,Normal behavior
+7.67,0.2562,blink,Normal behavior
+7.68,0.2548,blink,Normal behavior
+7.69,0.2535,blink,Normal behavior
+7.7,0.2524,blink,Normal behavior
+7.71,0.2516,blink,Normal behavior
+7.72,0.2509,blink,Normal behavior
+7.73,0.2504,blink,Normal behavior
+7.74,0.2501,blink,Normal behavior
+7.75,0.25,blink,Normal behavior
+7.76,0.2501,blink,Normal behavior
+7.7700000000000005,0.2504,blink,Normal behavior
+7.78,0.2509,blink,Normal behavior
+7.79,0.2516,blink,Normal behavior
+7.8,0.2524,blink,Normal behavior
+7.8100000000000005,0.2535,blink,Normal behavior
+7.82,0.2548,blink,Normal behavior
+7.83,0.2562,blink,Normal behavior
+7.84,0.2578,blink,Normal behavior
+7.8500000000000005,0.2595,blink,Normal behavior
+7.86,0.2615,blink,Normal behavior
+7.87,0.2636,blink,Normal behavior
+7.88,0.2658,blink,Normal behavior
+7.890000000000001,0.2681,blink,Normal behavior
+7.9,0.2706,blink,Normal behavior
+7.91,0.2732,blink,Normal behavior
+7.92,0.2759,blink,Normal behavior
+7.930000000000001,0.2787,blink,Normal behavior
+7.94,0.2816,blink,Normal behavior
+7.95,0.2845,blink,Normal behavior
+7.96,0.2876,blink,Normal behavior
+7.97,0.2906,blink,Normal behavior
+7.98,0.2937,blink,Normal behavior
+7.99,0.2969,blink,Normal behavior
+8.0,0.3,blink,Normal behavior
+8.01,0.3031,blink,Normal behavior
+8.02,0.3063,blink,Normal behavior
+8.03,0.3094,blink,Normal behavior
+8.040000000000001,0.3124,blink,Normal behavior
+8.05,0.3155,blink,Normal behavior
+8.06,0.3184,blink,Normal behavior
+8.07,0.3213,blink,Normal behavior
+8.08,0.3241,blink,Normal behavior
+8.09,0.3268,blink,Normal behavior
+8.1,0.3294,blink,Normal behavior
+8.11,0.3319,blink,Normal behavior
+8.120000000000001,0.3342,blink,Normal behavior
+8.13,0.3364,blink,Normal behavior
+8.14,0.3385,blink,Normal behavior
+8.15,0.3405,blink,Normal behavior
+8.16,0.3422,blink,Normal behavior
+8.17,0.3438,blink,Normal behavior
+8.18,0.3452,blink,Normal behavior
+8.19,0.3465,blink,Normal behavior
+8.2,0.3476,blink,Normal behavior
+8.21,0.3484,blink,Normal behavior
+8.22,0.3491,blink,Normal behavior
+8.23,0.3496,blink,Normal behavior
+8.24,0.3499,blink,Normal behavior
+8.25,0.35,blink,Normal behavior
+8.26,0.3499,blink,Normal behavior
+8.27,0.3496,blink,Normal behavior
+8.28,0.3491,blink,Normal behavior
+8.290000000000001,0.3484,blink,Normal behavior
+8.3,0.3476,blink,Normal behavior
+8.31,0.3465,blink,Normal behavior
+8.32,0.3452,blink,Normal behavior
+8.33,0.3438,blink,Normal behavior
+8.34,0.3422,blink,Normal behavior
+8.35,0.3405,blink,Normal behavior
+8.36,0.3385,blink,Normal behavior
+8.370000000000001,0.3364,blink,Normal behavior
+8.38,0.3342,blink,Normal behavior
+8.39,0.3319,blink,Normal behavior
+8.4,0.3294,blink,Normal behavior
+8.41,0.3268,blink,Normal behavior
+8.42,0.3241,blink,Normal behavior
+8.43,0.3213,blink,Normal behavior
+8.44,0.3184,blink,Normal behavior
+8.45,0.3155,blink,Normal behavior
+8.46,0.3124,blink,Normal behavior
+8.47,0.3094,blink,Normal behavior
+8.48,0.3063,blink,Normal behavior
+8.49,0.3031,blink,Normal behavior
+8.5,0.3,blink,Normal behavior
+8.51,0.2969,blink,Normal behavior
+8.52,0.2937,blink,Normal behavior
+8.53,0.2906,blink,Normal behavior
+8.540000000000001,0.2876,blink,Normal behavior
+8.55,0.2845,blink,Normal behavior
+8.56,0.2816,blink,Normal behavior
+8.57,0.2787,blink,Normal behavior
+8.58,0.2759,blink,Normal behavior
+8.59,0.2732,blink,Normal behavior
+8.6,0.2706,blink,Normal behavior
+8.61,0.2681,blink,Normal behavior
+8.620000000000001,0.2658,blink,Normal behavior
+8.63,0.2636,blink,Normal behavior
+8.64,0.2615,blink,Normal behavior
+8.65,0.2595,blink,Normal behavior
+8.66,0.2578,blink,Normal behavior
+8.67,0.2562,blink,Normal behavior
+8.68,0.2548,blink,Normal behavior
+8.69,0.2535,blink,Normal behavior
+8.700000000000001,0.2524,blink,Normal behavior
+8.71,0.2516,blink,Normal behavior
+8.72,0.2509,blink,Normal behavior
+8.73,0.2504,blink,Normal behavior
+8.74,0.2501,blink,Normal behavior
+8.75,0.25,blink,Normal behavior
+8.76,0.2501,blink,Normal behavior
+8.77,0.2504,blink,Normal behavior
+8.78,0.2509,blink,Normal behavior
+8.790000000000001,0.2516,blink,Normal behavior
+8.8,0.2524,blink,Normal behavior
+8.81,0.2535,blink,Normal behavior
+8.82,0.2548,blink,Normal behavior
+8.83,0.2562,blink,Normal behavior
+8.84,0.2578,blink,Normal behavior
+8.85,0.2595,blink,Normal behavior
+8.86,0.2615,blink,Normal behavior
+8.870000000000001,0.2636,blink,Normal behavior
+8.88,0.2658,blink,Normal behavior
+8.89,0.2681,blink,Normal behavior
+8.9,0.2706,blink,Normal behavior
+8.91,0.2732,blink,Normal behavior
+8.92,0.2759,blink,Normal behavior
+8.93,0.2787,blink,Normal behavior
+8.94,0.2816,blink,Normal behavior
+8.950000000000001,0.2845,blink,Normal behavior
+8.96,0.2876,blink,Normal behavior
+8.97,0.2906,blink,Normal behavior
+8.98,0.2937,blink,Normal behavior
+8.99,0.2969,blink,Normal behavior
+9.0,0.3,blink,Normal behavior
+9.01,0.3031,blink,Normal behavior
+9.02,0.3063,blink,Normal behavior
+9.03,0.3094,blink,Normal behavior
+9.040000000000001,0.3124,blink,Normal behavior
+9.05,0.3155,blink,Normal behavior
+9.06,0.3184,blink,Normal behavior
+9.07,0.3213,blink,Normal behavior
+9.08,0.3241,blink,Normal behavior
+9.09,0.3268,blink,Normal behavior
+9.1,0.3294,blink,Normal behavior
+9.11,0.3319,blink,Normal behavior
+9.120000000000001,0.3342,blink,Normal behavior
+9.13,0.3364,blink,Normal behavior
+9.14,0.3385,blink,Normal behavior
+9.15,0.3405,blink,Normal behavior
+9.16,0.3422,blink,Normal behavior
+9.17,0.3438,blink,Normal behavior
+9.18,0.3452,blink,Normal behavior
+9.19,0.3465,blink,Normal behavior
+9.200000000000001,0.3476,blink,Normal behavior
+9.21,0.3484,blink,Normal behavior
+9.22,0.3491,blink,Normal behavior
+9.23,0.3496,blink,Normal behavior
+9.24,0.3499,blink,Normal behavior
+9.25,0.35,blink,Normal behavior
+9.26,0.3499,blink,Normal behavior
+9.27,0.3496,blink,Normal behavior
+9.28,0.3491,blink,Normal behavior
+9.290000000000001,0.3484,blink,Normal behavior
+9.3,0.3476,blink,Normal behavior
+9.31,0.3465,blink,Normal behavior
+9.32,0.3452,blink,Normal behavior
+9.33,0.3438,blink,Normal behavior
+9.34,0.3422,blink,Normal behavior
+9.35,0.3405,blink,Normal behavior
+9.36,0.3385,blink,Normal behavior
+9.370000000000001,0.3364,blink,Normal behavior
+9.38,0.3342,blink,Normal behavior
+9.39,0.3319,blink,Normal behavior
+9.4,0.3294,blink,Normal behavior
+9.41,0.3268,blink,Normal behavior
+9.42,0.3241,blink,Normal behavior
+9.43,0.3213,blink,Normal behavior
+9.44,0.3184,blink,Normal behavior
+9.450000000000001,0.3155,blink,Normal behavior
+9.46,0.3124,blink,Normal behavior
+9.47,0.3094,blink,Normal behavior
+9.48,0.3063,blink,Normal behavior
+9.49,0.3031,blink,Normal behavior
+9.5,0.3,blink,Normal behavior
+9.51,0.2969,blink,Normal behavior
+9.52,0.2937,blink,Normal behavior
+9.53,0.2906,blink,Normal behavior
+9.540000000000001,0.2876,blink,Normal behavior
+9.55,0.2845,blink,Normal behavior
+9.56,0.2816,blink,Normal behavior
+9.57,0.2787,blink,Normal behavior
+9.58,0.2759,blink,Normal behavior
+9.59,0.2732,blink,Normal behavior
+9.6,0.2706,blink,Normal behavior
+9.61,0.2681,blink,Normal behavior
+9.620000000000001,0.2658,blink,Normal behavior
+9.63,0.2636,blink,Normal behavior
+9.64,0.2615,blink,Normal behavior
+9.65,0.2595,blink,Normal behavior
+9.66,0.2578,blink,Normal behavior
+9.67,0.2562,blink,Normal behavior
+9.68,0.2548,blink,Normal behavior
+9.69,0.2535,blink,Normal behavior
+9.700000000000001,0.2524,blink,Normal behavior
+9.71,0.2516,blink,Normal behavior
+9.72,0.2509,blink,Normal behavior
+9.73,0.2504,blink,Normal behavior
+9.74,0.2501,blink,Normal behavior
+9.75,0.25,blink,Normal behavior
+9.76,0.2501,blink,Normal behavior
+9.77,0.2504,blink,Normal behavior
+9.78,0.2509,blink,Normal behavior
+9.790000000000001,0.2516,blink,Normal behavior
+9.8,0.2524,blink,Normal behavior
+9.81,0.2535,blink,Normal behavior
+9.82,0.2548,blink,Normal behavior
+9.83,0.2562,blink,Normal behavior
+9.84,0.2578,blink,Normal behavior
+9.85,0.2595,blink,Normal behavior
+9.86,0.2615,blink,Normal behavior
+9.870000000000001,0.2636,blink,Normal behavior
+9.88,0.2658,blink,Normal behavior
+9.89,0.2681,blink,Normal behavior
+9.9,0.2706,blink,Normal behavior
+9.91,0.2732,blink,Normal behavior
+9.92,0.2759,blink,Normal behavior
+9.93,0.2787,blink,Normal behavior
+9.94,0.2816,blink,Normal behavior
+9.950000000000001,0.2845,blink,Normal behavior
+9.96,0.2876,blink,Normal behavior
+9.97,0.2906,blink,Normal behavior
+9.98,0.2937,blink,Normal behavior
+9.99,0.2969,blink,Normal behavior
