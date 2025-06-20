@@ -48,17 +48,11 @@ This project aims to bridge that gap — providing a **trustworthy, explainable 
 
 ## 📂 Repo Structure
 
-├── rag_pipeline.ipynb       # Main notebook
+├── gen-ai-2025-explainable-ai-assistant-for-ml-model.ipynb       # Main notebook
 
-├── power_data/              # Sample IoT power signals
-
-├── sample_prompts/          # Few-shot examples for classification
-
-├── utils/                   # Helper functions
+├── IoT_Power_Signal_Dataset              # Sample IoT power signals
 
 ├── README.md
-
-├── requirements.txt
 
 
 
@@ -72,13 +66,8 @@ This project aims to bridge that gap — providing a **trustworthy, explainable 
 git clone https://github.com/SaharZargarzadeh/Explainable-AI-Assistant-IoT.git
 cd Explainable-AI-Assistant-IoT
 ```
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
-
-### 3. Launch the Notebook
+### 2. Launch the Notebook
     Use Jupyter Lab, Jupyter Notebook, or VSCode:
 
 ```bash
