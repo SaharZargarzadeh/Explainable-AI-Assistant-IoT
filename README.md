@@ -85,3 +85,5 @@ pip install -r requirements.txt
 jupyter notebook rag_pipeline.ipynb
 ```
 
+## 🚀🏁 Quick Launch (Optional)
+[![View in Kaggle](https://www.kaggle.com/code/saharzargarzade/gen-ai-2025-explainable-ai-assistant-for-ml-model)
